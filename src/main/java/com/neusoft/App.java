@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World2!" );
         
-         System.out.println( "李四修改的" );
+         System.out.println( "张三修改的" );
     }
 }
